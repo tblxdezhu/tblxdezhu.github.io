@@ -11,17 +11,18 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Reproduce",
-    "url": "/Reproduce/",
+    "text": "Nice Pictures",
+    "url": "/pictures/",
     "icon": "fa-feed",
-    "layout": "post"
+    //"layout": "post"
   },
-  {
+  /*{
     "text": "Resume",
     "url": "#",
     "icon": "fa-graduation-cap",
     "layout": "post"
   },
+  */
   {
     "text": "Github",
     "url": "https://github.com/tblxdezhu",
