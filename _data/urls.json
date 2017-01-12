@@ -6,14 +6,15 @@
     "layout": "post"
   },
   {
-    "text": "About",
-    "url": "/about/",
-    "icon": "fa-comments"
-  },
-  {
     "text": "Projects",
     "url": "/projects",
     "icon": "fa-desktop"
+  },
+  {
+    "text": "Reproduce",
+    "url": "/",
+    "icon": "fa-feed",
+    "layout": "post"
   },
   {
     "text": "Resume",
@@ -27,9 +28,9 @@
     "icon": "fa-github"
   },
   {
-    "text": "Reproduce",
-    "url": "/",
-    "icon": "fa-feed",
-    "layout": "post"
-  }
+    "text": "About",
+    "url": "/about/",
+    "icon": "fa-comments"
+  },
+  
 ]
