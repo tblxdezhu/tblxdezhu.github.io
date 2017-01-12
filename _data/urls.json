@@ -12,10 +12,10 @@
   },
   {
     "text": "Nice Pictures",
-    "url": "/pictures/",
+    "url": "/pictures",
     "icon": "fa-feed"
   },
-  
+
   {
     "text": "Github",
     "url": "https://github.com/tblxdezhu",

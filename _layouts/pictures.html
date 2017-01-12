@@ -1,0 +1,44 @@
+---
+layout: default
+---
+<article class="post">
+
+  <div class="post-content">
+    {{ content }}
+
+    <div class="pictures row">
+    {% include project_tags.html %}
+    {% for i in site.data.projects %}
+    <div class="pictures-item col-md-4 col-sm-6 col-xs-12" data-tags='{{ i.tags | jsonify | downcase }}'>
+    	<div class="well pictures-outer">
+    		<div class="pictures-inner">
+    			<a href="/static/pictures/{{ i.image }}" class="thickbox">
+    			<div class="pictures-img bordered" style="background-image: url('/static/pictures/{{ i.image }}');"></div>
+                </a>
+                {% if i.url %} <a href="{{ i.url }}"> {% endif %}
+    			<h3 class="pictures-headlines">{{ i.name }}</h3>
+    			{% if i.url %} </a> {% endif %}
+    			<div class="pictures-content">
+    				<div class="tag-holder">
+    				{% if i.tags %} 
+    					{% for j in i.tags %}
+    					<span class="label tags tag-filter" data-tag="{{ j | downcase }}">{{ j }}</span>
+    					{% endfor %}
+    				{% endif %}
+    				</div>
+    				
+    			</div>
+    			<div class="pictures-footer"> 
+    				{% if i.url %} 
+    				<a href="{{ i.url }}" class="btn btn-info btn-raised btn-sm pictures-link">View</a>
+    				{% endif %}
+    				<span class="pictures-timeline">{{ i.date }}</span>
+    			</div>
+    		</div>
+    	</div>
+        </div>
+    {% endfor %}
+    </div>
+  </div>
+
+</article>
