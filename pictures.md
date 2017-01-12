@@ -1,8 +1,7 @@
-
 ---
 layout: project
-title: Picture
-permalink: /Picture/
+title: Pictures
+permalink: /pictures/
 ---
 
 > 精美的图片
