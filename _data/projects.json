@@ -21,12 +21,6 @@
 		"tags": ["APP"]
 	},
 	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Android","nodejs"]
-	},
-	{
 		"name": "leetcode",
 		"image": "logolarge.jpg",
 		"url":"https://leetcode.com",
