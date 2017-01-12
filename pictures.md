@@ -4,4 +4,4 @@ title: Pictures
 permalink: /pictures/
 ---
 
-> 精美的图片
+> 收藏的精美图片
