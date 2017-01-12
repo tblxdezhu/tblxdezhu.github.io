@@ -1,14 +1,13 @@
-title: John Smith
+title: 徒步旅行的猪
 description: My Personal Blog
-author: John Smith
+author: xu zhe
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/ashutosh2k12
-about: Freelance developer
-
+github: https://github.com/tblxdezhu
+about: this is my kingdom.
 baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
 url: "https://codeasashu.github.io/hcz-jekyll-blog"
 
-disqus_shortname: aboutashu
+disqus_shortname: tblxdezhu
 google_analytics: UA-72862926-1
 
 share:
