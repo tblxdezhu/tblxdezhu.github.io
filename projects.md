@@ -1,6 +1,6 @@
 ---
 layout: project
-title: BookMarks
+title: Nice Pictures
 permalink: /projects/
 ---
 
