@@ -1,31 +1,17 @@
 [
 	{
-		"name": "数字尾巴",
-		"image": "dgtle.png",
-		"url": "http://www.dgtle.com",
-		"date": "Jan 2017",
-		"tags": ["数码"]
+		"name": "",
+		"image": "2.png",
+		"url": "",
+		"date": "Jan 2017"
+		//"tags": ["数码"]
 	},
 	{
-		"name": "少数派",
-		"image": "shaoshupai.jpg",
-		"url": "http://sspai.com",
-		"date": "Jan 2017",
-		"tags": ["APP"]
-	},
-	{
-		"name": "Xclient",
-		"image": "xclient.png",
-		"url": "http://xclient.info",
-		"date": "Jan 2017",
-		"tags": ["APP"]
-	},
-	{
-		"name": "leetcode",
-		"image": "logolarge.jpg",
-		"url":"https://leetcode.com",
-		"date":"Jan 2017",
-		"tags":["Code"]
+		"name": "",
+		"image": "3.jpg",
+		"url": "",
+		"date": "Jan 2017"
+		//"tags": ["APP"]
 	},
 	{
 		"name":"1",

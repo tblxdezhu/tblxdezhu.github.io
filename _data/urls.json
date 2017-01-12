@@ -6,13 +6,13 @@
     "layout": "post"
   },
   {
-    "text": "Bookmarks",
+    "text": "Nice Pictures",
     "url": "/projects",
     "icon": "fa-desktop"
   },
   {
-    "text": "Nice Pictures",
-    "url": "/pictures",
+    "text": "BookMarks",
+    "url": "/bookmarks",
     "icon": "fa-feed"
   },
 
