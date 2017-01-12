@@ -14,11 +14,11 @@
 		"tags": ["APP"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","PHP"]
+		"name": "Xclient",
+		"image": "xclient.jpg",
+		"url": "http://xclient.info",
+		"date": "Jan 2017",
+		"tags": ["APP"]
 	},
 	{
 		"name": "Cool project 4",
