@@ -13,8 +13,7 @@
   {
     "text": "Nice Pictures",
     "url": "/pictures",
-    "icon": "fa-feed",
-    "layout": "pictures"
+    "icon": "fa-feed"
   },
 
   {
