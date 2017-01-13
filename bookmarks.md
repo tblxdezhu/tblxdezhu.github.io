@@ -17,6 +17,12 @@ permalink: /bookmarks/
 
 -------
 
+<div>
+     <img src="http://7xtqm4.com1.z0.glb.clouddn.com/s29154792.jpg_book" style="vertical-align:middle;">
+     <span>设置成功，请牢记新的登陆密码</span>
+</div>
+
+-------
 
 >  Mac破解app，有时候可以临时使用。
 
