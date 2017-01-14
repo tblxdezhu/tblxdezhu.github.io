@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title: BookMarks
 permalink: /bookmarks/
 ---
