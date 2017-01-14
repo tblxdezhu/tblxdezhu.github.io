@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Privacy
-permalink: /Privacy
+permalink: /Privacy/
 ---
 
 # 本博客隐私协议如下：
