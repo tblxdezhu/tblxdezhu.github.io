@@ -9,6 +9,9 @@ layout: default
         <img src="/static/books/{{ book.image }}" alt="{{ book.title }}">
       </a>
     </figure>
+    <ul class="list">
+      <li><span>简介:</span><p>{{ book.summary }}</p></li>
+    </ul>
     <div class="book-info">
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
