@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy
+permalink: 
+---
 # 本博客隐私协议如下：
 
 1. 本博客的原创原创文章，都是本人平时学习所做的笔记，禁止转载，谢谢合作。
