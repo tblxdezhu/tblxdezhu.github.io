@@ -3,7 +3,8 @@
 		"name":"",
 		"image":"1.jpg",
 		"url":"http://7xtqm4.com1.z0.glb.clouddn.com/03048_lonelycow_2880x1800.jpg",
-		"date": "Jan 2017"
+		"date": "Jan 2017",
+		"tags": ["风景"]
 	
 	},
 	{
@@ -11,21 +12,21 @@
 		"image": "2.jpg",
 		"url": "",
 		"date": "Jan 2017",
-		"tags": [""]
+		"tags": ["风景"]
 	},
 	{
 		"name": "",
 		"image": "3.jpg",
 		"url": "",
 		"date": "Jan 2017",
-		"tags": [""]
+		"tags": ["城市"]
 	},
 	{
 		"name": "",
 		"image": "4.jpg",
 		"url": "",
 		"date": "Jan 2017",
-		"tags": [""]
+		"tags": ["城市"]
 
 	}
 
