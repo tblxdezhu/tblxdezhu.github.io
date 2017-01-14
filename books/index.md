@@ -1,1 +1,4 @@
-# new
+---
+layout: book
+title: Books
+---
