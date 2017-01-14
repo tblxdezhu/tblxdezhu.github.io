@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy
-permalink: /_posts
+permalink: /Privacy
 ---
 # 本博客隐私协议如下：
 
