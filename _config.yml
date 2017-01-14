@@ -7,7 +7,12 @@ about: Wish you better.
 baseurl: "https://tblxdezhu.github.io"
 url: "https://tblxdezhu.github.io"
 
-disqus_shortname: tblxdezhu
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : tblxdezhu
+    
 google_analytics: UA-72862926-1
 
 share:
