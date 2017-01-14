@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Pictures
+title: Books
 permalink: /books/
 ---
 
