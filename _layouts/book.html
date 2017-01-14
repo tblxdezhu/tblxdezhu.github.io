@@ -9,9 +9,11 @@ layout: default
         <img src="/static/books/{{ book.image }}" alt="{{ book.title }}">
       </a>
     </figure>
-    <ul class="list">
-      <li><span>简介:</span><p>{{ book.summary }}</p></li>
-    </ul>
+    <div><div style="float: left;"><img src="/static/books/{{ book.image }}" /></div> <p>aaaaaaaaaa<br/>bbbbbbbbbbb</p></div>
+    <div class="book-summary">
+      <h2>简介:</h2>
+      <p>{{ book.summary }}</p>
+    </div>
     <div class="book-info">
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
@@ -19,3 +21,5 @@ layout: default
   </div>
   {% endfor %}
 </article>
+
+

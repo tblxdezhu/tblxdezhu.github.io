@@ -334,3 +334,10 @@
   border-top: 5px solid #eee;
   padding: ($spacing-unit * 2);
 }
+
+.book-summary {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
