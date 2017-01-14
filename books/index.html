@@ -2,9 +2,9 @@
 layout: default
 title: Books
 ---
-<div class="shelf">
+<article class="shelf">
   {% for book in site.data.books  %}
-  <article class="book">
+  <div class="book">
     <figure class="book-cover">
       <a href="{{ book.link }}">
         <img src="./static/books/{{ book.image }}" alt="{{ book.title }}">
@@ -14,6 +14,6 @@ title: Books
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
     </div>
-  </article>
+  </div>
   {% endfor %}
-</div>
+</article>
