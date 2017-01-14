@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: BookMarks
-permalink: /bookmarks/
 ---
 
 # 推荐好书好网站
