@@ -1,6 +1,7 @@
 ---
-layout: books
-title: Books
+layout: project
+title: Pictures
+permalink: /books/
 ---
 
-# 010101
+# 020202
