@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: book
 title: Pictures
 permalink: /books/
 ---
