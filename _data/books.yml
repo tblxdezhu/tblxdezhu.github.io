@@ -1,8 +1,8 @@
 - title: Ready Player One
   author: Ernest Cline
   image: readyplayerone.jpg
-  summary: 这是一本好书
-  link:
+  summary: 这是一本好书,
+  link: "https://book.douban.com/subject/26921237/?icn=index-latestbook-subject"
 
 - title: The Revenant
   author: Michael Punke
