@@ -11,8 +11,8 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "BookMarks",
-    "url": "/bookmarks",
+    "text": "Books",
+    "url": "/books",
     "icon": "fa-feed"
   },
 
