@@ -4,8 +4,11 @@ layout: default
 <article class="shelf">
   {% for book in site.data.books  %}
   <div class="book">
-   
-    <div><div style="float: left;"><img src="/static/books/{{ book.image }}" /></div></div>
+   <figure class="book-cover">
+      <a href="{{ book.link }}">
+        <img src="/static/books/{{ book.image }}" alt="{{ book.title }}">
+      </a>
+    </figure>
     <div class="book-info">
       <h2>{{ book.title }}</h2>
       <p>{{ book.author }}</p>
